@@ -8,7 +8,7 @@ on:
 jobs:
   release:
     env:
-      BLACKSMITH_FORGE_USERNAME: greg.sparks@puppet.com
+      BLACKSMITH_FORGE_USERNAME: greg.sparks
       BLACKSMITH_FORGE_PASSWORD: 2Riboflavin
     runs-on: ubuntu-latest
     steps:
