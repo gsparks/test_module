@@ -2,9 +2,9 @@
   "name": "gsparks-test_module",
   "version": "0.0.1",
   "author": "gsparks",
-  "summary": "",
+  "summary": "Test module to test github deploy actions",
   "license": "Apache-2.0",
-  "source": "",
+  "source": "https://github.com/gsparks/test_module",
   "dependencies": [
 
   ],
